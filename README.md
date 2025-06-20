@@ -1,63 +1,67 @@
+# 🛡️ TryHackMe + Cybersecurity Progress – Abubakar Sithik
 
-# 🚀 Cybersecurity Learning Journey - Abubakar Sithik
-
-Welcome to my Cybersecurity Portfolio. I’m transitioning from engineering into cybersecurity, and this repository is a complete record of my learning path from **Pre-Security** to **SOC Analyst Level 1**, as I build the skills to become a future SOC Analyst.
-
----
-
-## 📌 About Me
-
-- 🧑‍💻 Name: **Er. Abubakar Sithik**
-- 🌏 Location: Kuwait 🇰🇼 (Indian National)
-- 🎓 Background: Mechanical Engineering (B.E) with IT certifications
-- 🛡️ Goal: To become a **SOC Analyst Level 1**
-- 🗣️ Languages: English, Arabic, Tamil, Hindi, Malayalam
+Welcome! This repository tracks my daily progress, certifications, and hands-on projects as I transition into a career as a **SOC Analyst** and **Cybersecurity Engineer**.
 
 ---
 
-## 🧠 Learning Paths Completed & In Progress
+## 👨‍🎓 About Me
 
-| Learning Path            | Status        | Certificate |
-|--------------------------|---------------|-------------|
-| Pre-Security (TryHackMe) | ✅ Completed   | [📄 View](./Certificates/pre-security-certificate.pdf) |
-| Cyber Security 101       | ⏳ In Progress |             |
-| SOC Analyst Level 1      | 🔜 Starting Soon |             |
-
----
-
-## 📅 Daily Progress
-
-I update this daily with what I study and complete.
-
-👉 Check my progress log here: [`Daily-Progress/Progress.txt`](./Daily-Progress/Progress.txt)
+- 🎓 B.E. Mechanical Engineering – First Class Passed  
+  Now transitioning into IT & Cybersecurity with strong technical skills
+- 🛠️ Former Production Control Engineer & KFC Supervisor | Now focused on InfoSec
+- 🌍 Languages: English, Tamil, Arabic, Hindi, Malayalam
+- 🖥️ Systems: Linux, Windows | Tools: Bash, MySQL, SIEM, VPN, GitHub
 
 ---
 
-## 🧰 Tools, Skills & Topics I'm Learning
+## 🚀 Courses Completed
 
-- ✅ Networking Essentials
-- ✅ Linux Fundamentals
-- ✅ Cyber Kill Chain
-- ✅ MITRE ATT&CK Framework
-- ✅ SIEM (Splunk, Elastic)
-- ✅ Log Analysis
-- ✅ Threat Intelligence
-- ✅ Malware Analysis Basics
-- ✅ Incident Response Basics
+### ✅ Selfmade Ninja Academy (SNA)
+- 🔰 **LAHTP Legacy Program** – Completed  
+  Covered C, Linux, Bash scripting, and real-time web concepts
 
----
-
-## 🧑‍💼 Why I’m Sharing This
-
-This repository is proof of my dedication and effort. I want to show potential employers that I’m serious, consistent, and passionate about cybersecurity.
+### ✅ TryHackMe
+- 📜 [Pre-Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ABUBAKARSITHIK.png) – Completed on **May 7, 2025**
+- 🧠 Cyber Security 101 – In Progress (Current: 73%)  
+  - Linux, Network Essentials, Web Attacks, OWASP, Burp Suite, SQLMap, Nmap, and more
 
 ---
 
-## 📣 How to Connect with Me
+## 🧪 Projects
+
+### 📷 Photogram (Mini Web Project)
+> A simple photo-sharing platform built to **demonstrate user login**, **SQL-based credential storage**, and **basic web vulnerability testing**.
+
+- 🔐 Demonstrated how login authentication works in PHP/MySQL
+- 🧨 Tested for XSS & SQL Injection (as part of learning)
+- 👨‍💻 Built front-end + back-end manually to understand real-time workflow
+
+---
+
+## 🔍 Skills & Tools
+
+| Category            | Skills / Tools                                         |
+|---------------------|--------------------------------------------------------|
+| 💻 Programming       | C, PHP, Python, HTML, MySQL                            |
+| 🖥️ Systems & OS      | Linux (Bash), Windows                                  |
+| 🔒 Cybersecurity     | XSS, SQL Injection, Port Scanning, VPN, DNS           |
+| 🧰 Tools             | Wireshark, Metasploit, Burp Suite, sqlmap, nmap, GitHub |
+| 🧠 Soft Skills       | Problem Solving, Team Management, Shift Supervision   |
+
+---
+
+## 📘 Progress Tracker
+
+Daily logs and TryHackMe progress updates are stored in:  
+[`Daily-Progress/Progress.txt`](./Daily-Progress/Progress.txt)
+
+---
+
+## 📩 Contact
 
 - 📧 Email: abubakarofficial4395@gmail.com
-- 📱 WhatsApp: +96566005935
+- 🌐 GitHub: [github.com/abusithik4395](https://github.com/abusithik4395)
 
 ---
 
-> “If you can dream it, you can do it.” – Walt Disney
+**📌 I'm actively preparing for a SOC Analyst Level 1 role and open to opportunities!**
