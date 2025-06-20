@@ -8,7 +8,7 @@ Welcome! This repository tracks my daily progress, certifications, and hands-on 
 
 - 🎓 B.E. Mechanical Engineering – First Class Passed  
   Now transitioning into IT & Cybersecurity with strong technical skills
-- 🛠 Formar Production supervisor & Dispatcher in Americano | Now focused on InfoSec
+- 🛠 Former Production supervisor & Dispatcher in Americano | Now focused on InfoSec
 - 🌍 Languages: English, Tamil, Arabic, Hindi, Malayalam
 - 🖥️ Systems: Linux, Windows | Tools: Bash, MySQL, SIEM, VPN, GitHub
 
