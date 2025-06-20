@@ -8,7 +8,7 @@ Welcome! This repository tracks my daily progress, certifications, and hands-on 
 
 - 🎓 B.E. Mechanical Engineering – First Class Passed  
   Now transitioning into IT & Cybersecurity with strong technical skills
-- 🛠️ Former Production Control Engineer & KFC Supervisor | Now focused on InfoSec
+- 🛠 Formar Production supervisor & Dispatcher in Americano | Now focused on InfoSec
 - 🌍 Languages: English, Tamil, Arabic, Hindi, Malayalam
 - 🖥️ Systems: Linux, Windows | Tools: Bash, MySQL, SIEM, VPN, GitHub
 
@@ -21,8 +21,8 @@ Welcome! This repository tracks my daily progress, certifications, and hands-on 
   Covered C, Linux, Bash scripting, and real-time web concepts
 
 ### ✅ TryHackMe
-- 📜 [Pre-Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ABUBAKARSITHIK.png) – Completed on **May 7, 2025**
-- 🧠 Cyber Security 101 – In Progress (Current: 73%)  
+- 📜 [Pre-Security](https://github.com/abusithik4395/tryhackme-certifications/blob/main/Certifications/THM-ABUBAKARSITHIK.pdf) – Completed on **May 7, 2025**
+- 🧠 Cyber Security 101 – In Progress (Current: 76%)  
   - Linux, Network Essentials, Web Attacks, OWASP, Burp Suite, SQLMap, Nmap, and more
 
 ---
