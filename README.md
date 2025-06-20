@@ -29,7 +29,7 @@ Welcome to my Cybersecurity Portfolio. I’m transitioning from engineering into
 
 I update this daily with what I study and complete.
 
-👉 Check my progress log here: [`Daily-Progress/progress.txt`](./Daily-Progress/Progress.txt)
+👉 Check my progress log here: [`Daily-Progress/Progress.txt`](./Daily-Progress/Progress.txt)
 
 ---
 
