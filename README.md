@@ -1,67 +1,74 @@
-# 🛡️ TryHackMe + Cybersecurity Progress – Abubakar Sithik
 
-Welcome! This repository tracks my daily progress, certifications, and hands-on projects as I transition into a career as a **SOC Analyst** and **Cybersecurity Engineer**.
+# TryHackMe Certifications & Progress Portfolio
 
----
-
-## 👨‍🎓 About Me
-
-- 🎓 B.E. Mechanical Engineering – First Class Passed  
-  Now transitioning into IT & Cybersecurity with strong technical skills
-- 🛠 Former Production supervisor & Dispatcher in Americano | Now focused on InfoSec
-- 🌍 Languages: English, Tamil, Arabic, Hindi, Malayalam
-- 🖥️ Systems: Linux, Windows | Tools: Bash, MySQL, SIEM, VPN, GitHub
+Welcome to my cybersecurity portfolio! This repository contains my certifications, learning journey, and key accomplishments from **TryHackMe**, including **Cyber Security 101** and **SOC Analyst Level 1 – Tier 1**.
 
 ---
 
-## 🚀 Courses Completed
+## 📜 Certifications
 
-### ✅ Selfmade Ninja Academy (SNA)
-- 🔰 **LAHTP Legacy Program** – Completed  
-  Covered C, Linux, Bash scripting, and real-time web concepts
-
-### ✅ TryHackMe
-- 📜 [Pre-Security](https://github.com/abusithik4395/tryhackme-certifications/blob/main/Certifications/THM-ABUBAKARSITHIK.pdf) – Completed on **May 7, 2025**
-- 🧠 Cyber Security 101 – In Progress (Current: 76%)  
-  - Linux, Network Essentials, Web Attacks, OWASP, Burp Suite, SQLMap, Nmap, and more
+- ✅ **Pre-Security Path** – Completed
+- ✅ **Cyber Security 101** – Completed
+- ✅ **SOC Analyst Level 1 – Tier 1** – Completed
 
 ---
 
-## 🧪 Projects
+## 📚 Topics Covered
 
-### 📷 Photogram (Mini Web Project)
-> A simple photo-sharing platform built to **demonstrate user login**, **SQL-based credential storage**, and **basic web vulnerability testing**.
+### 🔐 Cyber Security 101:
+- Linux & Windows Fundamentals
+- Networking: OSI, TCP/UDP, VPN, DNS, DHCP, ARP, ICMP
+- Secure Protocols: HTTPS, SSH, TLS, SFTP
+- Web Hacking: HTML/JS, SQL Injection, XSS
+- Cryptography: Hashing, Public Key Crypto
+- Tools: Wireshark, nmap, sqlmap, hydra, gobuster, CyberChef
 
-- 🔐 Demonstrated how login authentication works in PHP/MySQL
-- 🧨 Tested for XSS & SQL Injection (as part of learning)
-- 👨‍💻 Built front-end + back-end manually to understand real-time workflow
-
----
-
-## 🔍 Skills & Tools
-
-| Category            | Skills / Tools                                         |
-|---------------------|--------------------------------------------------------|
-| 💻 Programming       | C, PHP, Python, HTML, MySQL                            |
-| 🖥️ Systems & OS      | Linux (Bash), Windows                                  |
-| 🔒 Cybersecurity     | XSS, SQL Injection, Port Scanning, VPN, DNS           |
-| 🧰 Tools             | Wireshark, Metasploit, Burp Suite, sqlmap, nmap, GitHub |
-| 🧠 Soft Skills       | Problem Solving, Team Management, Shift Supervision   |
+### 🛡 SOC Analyst Level 1 – Tier 1:
+- SOC Introduction: Roles & Tiers (L1-L3)
+- Basics of SIEM & Log Analysis
+- Threat Intelligence: IOCs & Threat Feeds
+- MITRE ATT&CK Framework Introduction
+- Incident Response Basics
+- Capstone Challenges (Tier 1 Level)
 
 ---
 
-## 📘 Progress Tracker
+## 🧠 Skills Demonstrated
 
-Daily logs and TryHackMe progress updates are stored in:  
-[`Daily-Progress/Progress.txt`](./Daily-Progress/Progress.txt)
-
----
-
-## 📩 Contact
-
-- 📧 Email: abubakarofficial4395@gmail.com
-- 🌐 GitHub: [github.com/abusithik4395](https://github.com/abusithik4395)
+- 🔎 Log analysis & threat detection (Tier 1 level)
+- 🕵️‍♂️ Basic incident investigation
+- ⚙️ Familiarity with SIEM and security tools
+- 🧰 Introductory ethical hacking techniques
 
 ---
 
-**📌 I'm actively preparing for a SOC Analyst Level 1 role and open to opportunities!**
+## 🔗 Additional Projects
+
+- **SNA Photogram Project**: SQL-backed secure login system
+- C, Python, PHP projects coming soon
+
+---
+
+## 📂 Repository Structure
+
+```
+/Certifications/
+├── THM-PreSecurity-Certificate.pdf
+├── THM-CyberSecurity101-Certificate.pdf
+├── THM-SOCAnalyst-Level1-Tier1-Certificate.pdf
+```
+
+---
+
+## 📫 Contact
+
+Feel free to connect or review my full resume:
+
+- **Name**: Er. Abubakar Sithik
+- **Email**: abubakarofficial4395@gmail.com
+- **Location**: Kuwait | Indian National
+- **Resume**: Available upon request or in portfolio repository
+
+---
+
+⭐️ _Thank you for visiting my portfolio!_
