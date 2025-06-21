@@ -39,7 +39,7 @@ Welcome to my cybersecurity portfolio! This repository documents my progress, ce
 
 ### 🔧 Tools & Projects
 - GitLab, Git Commands, Debugging Tools (GDB), GNU Compiler (gcc)
-- Project: **Photogram** – Secure Web App with SQL Credential Storage
+- Project: [**Photogram**](https://github.com/abubakarsithik4395/Portfolio/photogram) – Secure Web App with SQL Credential Storage
 
 ---
 
@@ -76,11 +76,13 @@ Welcome to my cybersecurity portfolio! This repository documents my progress, ce
 ## 📂 Repository Structure
 
 ```
-/Certifications/
-├── THM-PreSecurity-Certificate.pdf
-├── THM-CyberSecurity101-Certificate.pdf
-├── THM-SOCAnalyst-Level1-Tier1-Certificate.pdf
-├── SNA-LAHTP-Certificate.pdf
+/Portfolio/
+├── Certifications/
+│   ├── THM-PreSecurity-Certificate.pdf
+│   ├── THM-CyberSecurity101-Certificate.pdf
+│   ├── THM-SOCAnalyst-Level1-Tier1-Certificate.pdf
+│   ├── SNA-LAHTP-Certificate.pdf
+├── photogram/ (Photogram Web Project)
 ```
 
 ---
