@@ -40,7 +40,7 @@ Below are the certifications I’ve completed:
 
 ### 🔧 Tools & Projects
 - GitLab, Git Commands, Debugging Tools (GDB), GNU Compiler (gcc)
-- Project: [Photogram](https://github.com/abubakarsithik4395/Portfolio/tree/main/photogram) – Secure Web App with SQL Credential Storage
+- Project: [Photogram]() – Secure Web App with SQL Credential Storage
 
 ---
 
@@ -67,7 +67,7 @@ Below are the certifications I’ve completed:
 
 I’ve documented my daily study progress, including course completions, tools learned, and hands-on labs.
 
-- [View Daily Progress](https://github.com/abubakarsithik4395/Portfolio/blob/main/Daily-Progress/Progress.txt)
+- [View Daily Progress](https://github.com/abusithik4395/Portfolio/blob/main/Daily-Progress/Progress.txt)
 
 ---
 
