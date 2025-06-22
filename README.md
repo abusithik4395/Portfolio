@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio - Abubakar Sithik
+ 🛡️ Cybersecurity Portfolio - Abubakar Sithik
 
 Welcome to my Cybersecurity Portfolio. This repository contains my learning journey, certifications, progress, and project work while transitioning into the cybersecurity field.
 
@@ -8,10 +8,10 @@ Welcome to my Cybersecurity Portfolio. This repository contains my learning jour
 
 Below are the certifications I’ve completed:
 
-- [THM PreSecurity Certificate](https://github.com/abubakarsithik4395/Portfolio/blob/main/Certifications/THM-PreSecurity-Certificate.pdf)
-- [THM SOC Level 1 Certificate](https://github.com/abubakarsithik4395/Portfolio/blob/main/Certifications/THM-Soc-1%20Analyst-1.pdf)
-- [Legacy & Hacking Training Program (SNA)](https://github.com/abubakarsithik4395/Portfolio/blob/main/Certifications/LAHTP-LEGACY-SNA.png)
-- [TryHackMe – Cyber Security 101](https://github.com/abubakarsithik4395/Portfolio/blob/main/Certifications/THM-CyberSecurity101-Certificate.pdf)
+- [THM PreSecurity Certificate](https://github.com/abusithik4395/Portfolio/blob/main/Certifications/THM-PreSecurity-Certificate.pdf)
+- [THM SOC Level 1 Certificate](https://github.com/abusithik4395/Portfolio/blob/main/Certifications/THM-Soc-1%20Analyst-1.pdf)
+- [Legacy & Hacking Training Program (SNA)](https://github.com/abusithik4395/Portfolio/blob/main/Certifications/LAHTP-LEGACY-SNA.png)
+- [TryHackMe – Cyber Security 101](https://github.com/abusithik4395/Portfolio/blob/main/Certifications/THM-cybersecurity-101.pdf)
 
 ---
 
