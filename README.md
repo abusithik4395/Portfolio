@@ -1,16 +1,17 @@
+# 🛡️ Cybersecurity Portfolio - Abubakar Sithik
 
-# Cybersecurity Portfolio – Abubakar Sithik
-
-Welcome to my cybersecurity portfolio! This repository documents my progress, certifications, and key topics covered during my learning journey with **Selfmade Ninja Academy (SNA)** and **TryHackMe**.
+Welcome to my Cybersecurity Portfolio. This repository contains my learning journey, certifications, progress, and project work while transitioning into the cybersecurity field.
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **Selfmade Ninja Academy (SNA)** – Completed LAHTP (Legacy and Hacking Training Program – Basics)
-- ✅ **TryHackMe – Pre-Security Path** – Completed
-- ✅ **TryHackMe – Cyber Security 101** – Completed
-- ✅ **TryHackMe – SOC Analyst Level 1 – Tier 1** – Completed
+Below are the certifications I’ve completed:
+
+- [THM PreSecurity Certificate](https://github.com/abubakarsithik4395/Portfolio/blob/main/Certifications/THM-PreSecurity-Certificate.pdf)
+- [THM SOC Level 1 Certificate](https://github.com/abubakarsithik4395/Portfolio/blob/main/Certifications/THM-Soc-1%20Analyst-1.pdf)
+- [Legacy & Hacking Training Program (SNA)](https://github.com/abubakarsithik4395/Portfolio/blob/main/Certifications/LAHTP-LEGACY-SNA.png)
+- [TryHackMe – Cyber Security 101](https://github.com/abubakarsithik4395/Portfolio/blob/main/Certifications/THM-CyberSecurity101-Certificate.pdf)
 
 ---
 
@@ -39,7 +40,7 @@ Welcome to my cybersecurity portfolio! This repository documents my progress, ce
 
 ### 🔧 Tools & Projects
 - GitLab, Git Commands, Debugging Tools (GDB), GNU Compiler (gcc)
-- Project: [**Photogram**](https://github.com/abubakarsithik4395/Portfolio/photogram) – Secure Web App with SQL Credential Storage
+- Project: [Photogram](https://github.com/abubakarsithik4395/Portfolio/tree/main/photogram) – Secure Web App with SQL Credential Storage
 
 ---
 
@@ -62,6 +63,14 @@ Welcome to my cybersecurity portfolio! This repository documents my progress, ce
 
 ---
 
+## 📅 Daily Progress
+
+I’ve documented my daily study progress, including course completions, tools learned, and hands-on labs.
+
+- [View Daily Progress](https://github.com/abubakarsithik4395/Portfolio/blob/main/Daily-Progress/Progress.txt)
+
+---
+
 ## 💼 Skills Demonstrated
 
 - 🔍 Log & Threat Analysis, Basic Incident Response
@@ -75,24 +84,23 @@ Welcome to my cybersecurity portfolio! This repository documents my progress, ce
 
 ## 📂 Repository Structure
 
-```
 /Portfolio/
 ├── Certifications/
 │   ├── THM-PreSecurity-Certificate.pdf
+│   ├── THM-Soc-1%20Analyst-1.pdf
+│   ├── LAHTP-LEGACY-SNA.png
 │   ├── THM-CyberSecurity101-Certificate.pdf
-│   ├── THM-SOCAnalyst-Level1-Tier1-Certificate.pdf
-│   ├── SNA-LAHTP-Certificate.pdf
 ├── photogram/ (Photogram Web Project)
-```
-
+├── Daily-Progress/
+│   ├── Progress.txt
 ---
 
 ## 📫 Contact
 
-- **Name**: Er. Abubakar Sithik  
-- **Email**: abubakarofficial4395@gmail.com  
-- **GitHub**: [github.com/abubakarsithik4395](https://github.com/abubakarsithik4395)  
-- **Resume**: Available in repository or upon request
+- Name: Er. Abubakar Sithik  
+- Email: abubakarofficial4395@gmail.com  
+- GitHub: [github.com/abubakarsithik4395](https://github.com/abubakarsithik4395)  
+- Resume: Available in repository or upon request
 
 ---
 
