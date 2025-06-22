@@ -40,7 +40,7 @@ Below are the certifications I’ve completed:
 
 ### 🔧 Tools & Projects
 - GitLab, Git Commands, Debugging Tools (GDB), GNU Compiler (gcc)
-- Project: [Photogram]() – Secure Web App with SQL Credential Storage
+- Project: [Photogram](https://github.com/abusithik4395/Portfolio/tree/main/photogram) – Secure Web App with SQL Credential Storage
 
 ---
 
