@@ -87,9 +87,9 @@ I’ve documented my daily study progress, including course completions, tools l
 /Portfolio/
 ├── Certifications/
 │   ├── THM-PreSecurity-Certificate.pdf
-│   ├── THM-Soc-1%20Analyst-1.pdf
+│   ├── THM-Soc-1 Analyst-1.pdf
 │   ├── LAHTP-LEGACY-SNA.png
-│   ├── THM-CyberSecurity101-Certificate.pdf
+│   ├── THM-cyberSecurity101-Certificate.pdf
 ├── photogram/ (Photogram Web Project)
 ├── Daily-Progress/
 │   ├── Progress.txt
