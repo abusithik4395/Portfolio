@@ -64,7 +64,7 @@ Below are the certifications I’ve completed:
 ---
 
 
-## 📅 TryHackMe Lab Practice Evidence
+## 📸 TryHackMe Lab Practice Evidence
 
 This Folder Contains Screenshots of my Hands-on Lab Practices Completed on the **TryHackMe** Platforms as Part of my **cybersecurity Analyst training**
 
