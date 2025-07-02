@@ -63,6 +63,15 @@ Below are the certifications I’ve completed:
 
 ---
 
+
+## 📅 TryHackMe Lab Practice Evidence
+
+This Folder Contains Screenshots of my Hands-on Lab Practices Completed on the **TryHackMe** Platforms as Part of my **cybersecurity Analyst training**
+
+- [View Screenshots ](https://github.com/abusithik4395/Portfolio/blob/main/TryHackMe_SOC1_LAB_proofs)
+
+---
+
 ## 📅 Daily Progress
 
 I’ve documented my daily study progress, including course completions, tools learned, and hands-on labs.
