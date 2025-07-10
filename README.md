@@ -108,7 +108,7 @@ I’ve documented my daily study progress, including course completions, tools l
 
 - Name: Er. Abubakar Sithik  
 - Email: abubakarofficial4395@gmail.com  
-- GitHub: [github.com/abubakarsithik4395](https://github.com/abubakarsithik4395)  
+- GitHub: [github.com/abubsithik4395](https://github.com/abusithik4395)  
 - Resume: Available in repository or upon request
 
 ---
