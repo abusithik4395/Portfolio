@@ -71,3 +71,4 @@ TryHackMe SOC ANALYST-1 Progress (Started: June 25, 2025):
 | July 08, 2025 | 23%            |
 | July 09, 2025 | 24%            |
 | July 09, 2025 | 27%            |
+| July 10, 2025 | 28%            |
